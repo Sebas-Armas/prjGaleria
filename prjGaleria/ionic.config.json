@@ -1,0 +1,8 @@
+{
+  "name": "prjGaleria",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
