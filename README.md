@@ -1,7 +1,7 @@
 # prjGaleria
 App Acceso a cámara y despliegue en app de foto y video
 
-En el vídeo se muestra un ejemplo para poder cargar Fotos y Videos a 
+Ejemplo para poder cargar Fotos y Videos a 
 una aplicación desde la Galeria del dispositivo, como también por 
 medio de la cámara de este; esto se realizó por medio de Ionic, con 
 el Framework Angular. A continuación se muestran los enlaces 
