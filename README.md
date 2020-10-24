@@ -1,5 +1,4 @@
 # prjGaleria
-App Acceso a cámara y despliegue en app de foto y video
 
 Ejemplo para poder cargar Fotos y Videos a 
 una aplicación desde la Galeria del dispositivo, como también por 
